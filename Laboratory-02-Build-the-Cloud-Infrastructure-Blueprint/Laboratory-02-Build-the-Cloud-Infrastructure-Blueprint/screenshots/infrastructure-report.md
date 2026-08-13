@@ -2,33 +2,33 @@
 
 ## Operating System
 
-- Operating System: [ILAGAY ANG ACTUAL RESULT]
+- Operating System: Ubuntu
 
 ## Kernel Version
 
-- Kernel Version: [ILAGAY ANG ACTUAL RESULT]
+- Kernel Version: Ubuntu 24.04.4 LTS
 
 ## CPU
 
-- CPU Model: [ILAGAY ANG ACTUAL RESULT]
-- CPU Cores: [ILAGAY ANG ACTUAL RESULT]
+- CPU Model: 32-bit, 64-bit
+- CPU Cores: 6
 
 ## Memory
 
-- Total RAM: [ILAGAY ANG ACTUAL RESULT]
+- Total RAM: 3.8Gi
 
 ## Storage
 
-- Disk Capacity: [ILAGAY ANG ACTUAL RESULT]
+- Disk Capacity: 2.5Gi
 
 ## Mounted File Systems
 
-- [ILAGAY ANG ACTUAL RESULT]
+- /sys
 
 ## Hostname
 
-- Hostname: [ILAGAY ANG ACTUAL RESULT]
+- Hostname: cloud-server
 
 ## IP Address
 
-- IP Address: [ILAGAY ANG ACTUAL RESULT]
+- IP Address: 172.30.1.2 172.17.0.1 192.168.0.87
