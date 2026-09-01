@@ -13,3 +13,10 @@ Google Cloud Platform (GCP) is particularly strong in AI, machine learning, and 
 4. Which would you personally choose and why?
 
 I would choose AWS because it offers a very wide range of services and gives me flexibility for different types of projects. It is also a strong choice for learning cloud computing because of its large ecosystem and broad service coverage.
+| Service Category    | AWS | Azure | GCP |
+| ------------------- | --- | ----- | --- |
+| Virtual Machine     |     |       |     |
+| Object Storage      |     |       |     |
+| Identity Management |     |       |     |
+| SQL Database        |     |       |     |
+| Kubernetes          |     |       |     |
