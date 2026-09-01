@@ -21,3 +21,11 @@ Client D — Global E-Commerce
 Chosen Platform: Amazon Web Services (AWS)
 
 AWS is an appropriate choice because its global infrastructure supports customers in different regions and provides multiple Availability Zones for high availability. AWS Auto Scaling can automatically adjust resources as traffic changes, while services such as Global Accelerator can route users toward healthy endpoints and support multi-region availability.
+| Business Requirement    | Recommended Platform | Justification |
+| ----------------------- | -------------------- | ------------- |
+| Startup Company         |                      |               |
+| Enterprise Organization |                      |               |
+| Microsoft Environment   |                      |               |
+| AI / Machine Learning   |                      |               |
+| Kubernetes Deployment   |                      |               |
+| Global Web Application  |                      |               |
